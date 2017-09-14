@@ -16,5 +16,7 @@
 - A ghostwritten autobiography
 - A novel by a left handed author
 
+Note: You will be receive a 100% on this quiz if you participate fully. If your group is able to find every item, you will receive ten bonus points. 
+Otherwise, the number of successful finds will not affect your grade.
 
  
