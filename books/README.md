@@ -1,5 +1,5 @@
 
-# In groups of 4-5 students, you will travel to Hillman library, locate, and check out a physical book type item meeting each of the following criteria. It doesn't matter who checks out each item, as long as you are able to bring them to class on Tuesday. Make sure you keep of running list of which items match which criteria. If somehow a book matches more than one category, you may count it for up to three things. (Note: Some items might have to be requested from storage.)
+### In groups of 4-5 students, you will travel to Hillman library, locate, and check out a physical book type item meeting each of the following criteria. It doesn't matter who checks out each item, as long as you are able to bring them to class on Tuesday. Make sure you keep of running list of which items match which criteria. If somehow a book matches more than one category, you may count it for up to three things. (Note: Some items might have to be requested from storage.)
 
 - An item that reprints the full text of the U.S. constitution
 - An item containing a politcian's recipe for something
