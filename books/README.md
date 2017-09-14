@@ -10,7 +10,7 @@
 - A facsimile edition of a literary classic
 - A book published by B.W. Huebsch
 - A scholarly edition with a list of errata in it
-- A print bibliograpohy of works about a common subject
+- A print bibliography of works about a common subject or written by a common author
 - A novel with little plot summaries at the start of each chapter
 - A book of poems that is in no way a "best of" or an anthology
 - A ghostwritten autobiography
